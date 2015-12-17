@@ -5,6 +5,12 @@
 			"download": "https://github.com/Mar-tin-G/LocalUrlToText",
 			"eol": null,
 			"security": false
+		},
+		"1.1": {
+			"current": "1.1.0-beta1",
+			"download": "https://github.com/Mar-tin-G/LocalUrlToText",
+			"eol": null,
+			"security": false
 		}
 	}
 }
